@@ -1,0 +1,21 @@
+{
+    "name": "futurum6/nova-poshta-sdk",
+    "description": "SDK for Nova Poshta API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ваше Имя",
+            "email": "ваш-email@example.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "YourNamespace\\NovaPoshtaSdk\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
